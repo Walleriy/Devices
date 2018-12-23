@@ -1,0 +1,13 @@
+Changable
+Name: First
+Power: 200
+State: On
+Level: 5
+
+Unchangable
+Name: Second
+Power: 150
+State: On
+
+Unchangable
+Name: Third
